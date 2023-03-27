@@ -1,0 +1,9 @@
+app-ip = [
+  [],
+]
+jenkins-ip = [
+  [
+    "34.230.11.242",
+  ],
+]
+s3-bucket = "terraform-state-bfpflu2y"
